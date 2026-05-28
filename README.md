@@ -6,7 +6,7 @@ Final-year CS student at Kalinga University, building things at the intersection
 
 ## 🔭 What I'm working on
 
-- **Gen Z Economy Report:**real-data economic research pipeline (BLS · FRED · Zillow · Census) with ML projections and live deployment
+- **Gen Z Economy Report:** real-data economic research pipeline (BLS · FRED · Zillow · Census) with ML projections and live deployment
 - Multi-agent RAG systems with LangGraph
 - Explainable AI for high-stakes decisions
 - Demand forecasting and inventory optimization
